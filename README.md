@@ -142,6 +142,8 @@ Homegraph_API_Key: 'ADD_YOUR HOMEGRAPH_API_KEY_HERE'
   - Change Token URL to `https://[YOUR REVERSE PROXY URL]/token` (replace with your actual URL).  
   - Do NOT check 'Google to transmit clientID and secret via HTTP basic auth header'.
   - Click 'Save' at the top right corner, then click 'Test' to generate a new draft version of the Test App.
+  - Select 'On device testing'
+  - Enter the same URL as for fulfillment, e.g. 'https://[YOUR REVERSE PROXY URL]/smarthome' and click Save.
   
 ## Connect smart home devices to your Google Home device
 - On your mobile device, open the Google Home app.
